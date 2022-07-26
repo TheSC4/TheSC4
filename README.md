@@ -14,7 +14,7 @@
 - Cybersecurity💻
 - Pentesting 🏴‍☠️
 - Cryptography 💢
-
+- Networking ☠️
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=TheSC4&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
@@ -26,7 +26,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=CSS3)
 ![WireShark](https://img.shields.io/badge/-wireshark-000000?style=flat&logo=wireshark)
-![AirCrackng](https://img.shields.io/badge/-johntheripper-000000?style=flat&logo=johntheripper)
+
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
