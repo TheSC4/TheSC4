@@ -3,6 +3,8 @@
 
 <h2> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Samit Chavhan <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40SC~%23+whoami;%E2%9C%93+Student;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
+
 [![Linkedin Badge](https://img.shields.io/badge/-TheSC4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TheSC4/)](https://www.linkedin.com/in/TheSC4/)
 [![Gmail Badge](https://img.shields.io/badge/-founderofsc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:founderofsc@gmail.com)](mailto:founderofsc@gmail.com) 
 
