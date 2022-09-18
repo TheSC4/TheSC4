@@ -18,7 +18,7 @@
 - Cryptography 💢
 - Networking ☠️
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=TheSC4&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=TheSC4&show_icons=true&theme=radical&border_color=61dafb&hide_border=true&include_all_commits=true" />
     </a>
     
 🛠**Tech Stack**
@@ -37,3 +37,5 @@
 
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laejaazkw667hb4rfm56ypjcse&cover_image=true&theme=novatorem&bar_color=bb00ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+
