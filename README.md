@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%2336BCF7&vCenter=true&height=35&lines=root%40SC~%23+whoami;%E2%9C%93+Student;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93++;%E2%9C%93++)](https://git.io/typing-svg)
 
-[![Linkedin Badge](https://img.shields.io/badge/-TheSC4-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TheSC4/)](https://https://www.linkedin.com/in/samit-chavhan-sc/)
+[![Linkedin Badge](https://img.shields.io/badge/-SamitChavhan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/TheSC4/)](https://https://www.linkedin.com/in/samit-chavhan-sc/)
 [![Gmail Badge](https://img.shields.io/badge/-founderofsc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:founderofsc@gmail.com)](mailto:founderofsc@gmail.com) 
 
 - 🎯 Portfolio website: Under Construction
