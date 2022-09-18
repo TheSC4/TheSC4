@@ -35,3 +35,5 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laejaazkw667hb4rfm56ypjcse&cover_image=true&theme=novatorem&bar_color=bb00ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
