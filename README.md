@@ -31,6 +31,8 @@
 
 
 ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=MySQL)
+
+
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
@@ -38,4 +40,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31laejaazkw667hb4rfm56ypjcse&cover_image=true&theme=novatorem&bar_color=bb00ff&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
+<br>
 
+<img src="https://media.giphy.com/media/3oEjHWpiVIOGXT5l9m/giphy.gif" width="300" >
+
+</br>
